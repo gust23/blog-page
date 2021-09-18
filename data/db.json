@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Take the trash out non",
+      "body": "lorem ipsum-kunsdsnddsdddnjsdfe",
+      "tags": ["banana", "estrato", "reginaldo", "estrondo alto"]
+    },
+    {
+      "id": 2,
+      "title": "Mama mia watch out for the deleterino!",
+      "body": "lorem ipsum-san",
+      "tags": ["css", "estrato", "reginaldo", "estrondo alto"]
+    },
+    {
+      "title": "lorem",
+      "body": "bilulululu",
+      "tags": ["css", "html", "javascipt", "react sucks hehe"],
+      "id": 3
+    }
+  ]
+}
